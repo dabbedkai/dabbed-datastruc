@@ -73,12 +73,12 @@ public class MovieRegistration {
 
             System.out.print("Input minutes: ");
             int minutes = sc.nextInt();
-            System.out.println("Total minutes: " + minutes);
+            System.out.println("\nTotal minutes: " + minutes);
             sc.nextLine();
 
             System.out.print("Input setting: ");
             String setting = sc.nextLine();
-            System.out.println("Setting for movie: " + setting);
+            System.out.println("\nSetting for movie: " + setting);
 
             System.out.println("""
                 Please select an option:
@@ -101,7 +101,7 @@ public class MovieRegistration {
 
             System.out.print("Input price: ");
             int price = sc.nextInt();
-            System.out.println("Total price: " + price);
+            System.out.println("\nTotal price: " + price);
             sc.nextLine();
 
             System.out.print("Register another Movie? (Y/N): ");
