@@ -1,4 +1,5 @@
 
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class MusicAlbum {
@@ -16,6 +17,25 @@ public class MusicAlbum {
         String anotherAlbum;
 
         int albumCount = 0;
+        try{
+            System.out.print("""
+                [1] Register Album
+                [2] Delete Album
+                [3] Display Album
+                [4] Exit
+
+                Enter choice: 
+                """);
+
+        String
+        }catch(InputMismatchException){
+            
+        }
+        
+
+        switch (choice){
+
+        }
 
         System.out.println("Welcome to the Music Album Registration!\n");
 

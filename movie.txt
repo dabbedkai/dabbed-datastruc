@@ -1,0 +1,10 @@
+========================================
+Type: Type: DVD
+Movie Title: Movie Title: Kaizer
+Category: Category: David
+Minutes: Minutes: 200
+Setting: Setting: Palabay
+Rental/Sales: Rental/Sales: 21
+Price: Price: 500
+----------------------------------------
+
